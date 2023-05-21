@@ -32,19 +32,23 @@ Módulo Sensor de Velocidade Encoder é utilizado para realizar medições de ro
 O Disco Encoder possibilita que um sensor de velocidade / chave óptica possa fazer a leitura de quantas voltas foram dadas por um motor. Este disco é utilizado nos mais diversos equipamentos para definir a velocidade do deslocamento de um objeto ou uma engrenagem, por exemplo.
 
 -	Modulo Farol de led
+
 O Módulo LED 8mm Tipo Semáforo é composto por 3 LEDs, sendo um na cor verde, um na cor amarela e outro na cor vermelha. A disposição dos LEDs no módulo faz com que o mesmo fique parecido com um semáforo e isto possibilita projetos bem interessantes.
 
 
 ###	Métodos
 
-•	IDE Ardino
+-	IDE Ardino
+
 Arduino Integrated Development Environment é uma aplicação de plataforma cruzada, escrito em funções de C e C ++. É usado para escrever e fazer upload de programas em placas compatíveis com Arduino.
 
-•	Protocolo MTQQ
+-	Protocolo MTQQ
+
 o MQTT (Message Queuing Telemetry Transport e tendo tradução para português sob o nome de Transporte de Filas de Mensagem de Telemetria) é um protocolo de mensagens que foi criado com o objetivo de oferecer um baixo consumo de rede, banda e também dos demais recursos de software. O formato utilizado no MQTT é de Cliente/Servidor.
 Por esse motivo e também por ter fundamentos na pilha TCP/IP ou em outros protocolos de rede, o MQTT tem extrema utilidade dentro da área de desenvolvimento de projetos de comunicação entre máquinas, também conhecido pelo termo M2M (Machine to Machine). Outra área também onde se torna muito presente é para conectividade de IoT (Internet of Things).
 
-•	Simulador de Circuitos – Tinkercad
+-	Simulador de Circuitos – Tinkercad
+
 O Tinkercad é uma ferramenta online de design de modelos 3D em CAD e também de simulação de circuitos elétricos analógicos e digitais, desenvolvida pela Autodesk. Por ser gratuito e fácil de usar, encontramos nele uma oportunidade de ensino de Programação Embarcada, visto que a primeira barreira encontrada pelos alunos é a de não possuir os componentes e o microcontrolador em mãos.
 
 
