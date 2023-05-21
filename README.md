@@ -10,23 +10,23 @@ Este trabalho consiste em desenvolver um sistema de monitoramento de velocidade 
 
 ### Materias
 
-•	Arduino Mega
+-	Arduino Mega
 Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão, a qual tem origem em Wiring, e é essencialmente C/C++.O objetivo do projeto é criar ferramentas que são acessíveis, com baixo custo, flexíveis e fáceis de se usar por principiantes e profissionais. Principalmente para aqueles que não teriam alcance aos controladores mais sofisticados e ferramentas mais complicadas. 
 
-•	Modulo ESP8266
+-	Modulo ESP8266
  Módulo NodeMCU V3 - ESP8266 - CH340 ou Nodemcu Lolin é uma placa controladora capaz de colocar seu projeto conectado na internet, assim fazendo com que você seja capaz de acessa-lo, controlá-lo, adquirir informações de forma remota. Em outras palavas essa é a porta de acesso para a Internet das Coisas (Internet of Things - IoT).
 
-•	Motor Dc com caixa de redução
+-	Motor Dc com caixa de redução
 O motor redutor de velocidade é um dispositivo mecânico cujo principal objetivo é diminuir a rotação de um acionador. Seus componentes básicos geralmente são rolamentos, carcaças, engrenagens e eixos de entrada e saída.
 Quanto menor é a rotação do motor, quando comparada à rotação dos eixos, menor será a velocidade. A operação inversa (quando a rotação do motor é maior que a do eixo) causa um aumento na força. Resumindo, quando a rotação diminui, o torque aumenta.
 
-•	Sensor Enconder
+-	Sensor Enconder
 Módulo Sensor de Velocidade Encoder é utilizado para realizar medições de rotação de motores, contagem de pulsos e como controlador de posicionamento. Pode ser utilizado com os mais diversos controladores e placas, como Arduino, Raspberry Pi e PIC. É indicado para utilização com um disco encoder, onde as ranhuras do disco irão interromper o feixe de luz infravermelho e enviar um sinal ao microcontrolador.
 
-•	Disco Enconder
+- Disco Enconder
 O Disco Encoder possibilita que um sensor de velocidade / chave óptica possa fazer a leitura de quantas voltas foram dadas por um motor. Este disco é utilizado nos mais diversos equipamentos para definir a velocidade do deslocamento de um objeto ou uma engrenagem, por exemplo.
 
-•	Modulo Farol de led
+-	Modulo Farol de led
 O Módulo LED 8mm Tipo Semáforo é composto por 3 LEDs, sendo um na cor verde, um na cor amarela e outro na cor vermelha. A disposição dos LEDs no módulo faz com que o mesmo fique parecido com um semáforo e isto possibilita projetos bem interessantes.
 
 
