@@ -47,9 +47,9 @@ Arduino Integrated Development Environment é uma aplicação de plataforma cruz
 o MQTT (Message Queuing Telemetry Transport e tendo tradução para português sob o nome de Transporte de Filas de Mensagem de Telemetria) é um protocolo de mensagens que foi criado com o objetivo de oferecer um baixo consumo de rede, banda e também dos demais recursos de software. O formato utilizado no MQTT é de Cliente/Servidor.
 Por esse motivo e também por ter fundamentos na pilha TCP/IP ou em outros protocolos de rede, o MQTT tem extrema utilidade dentro da área de desenvolvimento de projetos de comunicação entre máquinas, também conhecido pelo termo M2M (Machine to Machine). Outra área também onde se torna muito presente é para conectividade de IoT (Internet of Things).
 
--	Simulador de Circuitos – Tinkercad
+-	Simulador de Circuitos – Wokwi
 
-O Tinkercad é uma ferramenta online de design de modelos 3D em CAD e também de simulação de circuitos elétricos analógicos e digitais, desenvolvida pela Autodesk. Por ser gratuito e fácil de usar, encontramos nele uma oportunidade de ensino de Programação Embarcada, visto que a primeira barreira encontrada pelos alunos é a de não possuir os componentes e o microcontrolador em mãos.
+O Wokwi é uma ferramenta online de simulação de circuitos elétricos analógicos e digitais. Por ser gratuito e fácil de usar, encontramos nele uma oportunidade de ensino de Programação Embarcada, visto que a primeira barreira encontrada pelos alunos é a de não possuir os componentes e o microcontrolador em mãos.
 
 
 
